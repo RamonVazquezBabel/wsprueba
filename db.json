@@ -1,8 +1,8 @@
 {
-  "alumno": [
+  "posts": [
     {
       "id": 1,
-      "title": "ramon"
+      "title": "hello"
     }
   ],
   "profile": {
